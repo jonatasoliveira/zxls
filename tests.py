@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 import unittest
-from xls2python import *
+from zxls import *
 
 
 class FromXLSTest(unittest.TestCase):
